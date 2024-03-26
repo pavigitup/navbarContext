@@ -1,0 +1,25 @@
+.home-con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 5px 20px 1px 20px;
+}
+.home-con-1 {
+  background-color: #111;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 5px 20px 1px 20px;
+}
+
+.head {
+  color: #fff;
+  font-size: 40px;
+}
+
+.home-logo {
+  height: 300px;
+  margin-bottom: 50px;
+}
